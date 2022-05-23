@@ -8,7 +8,7 @@ USE employeeTracker;
 -- create tables
 CREATE TABLE departments (
   id int NOT NULL AUTO_INCREMENT PRIMARY KEY,
-  name varchar(30) NOT NULL
+  department_name varchar(30) NOT NULL
 );
 
 CREATE TABLE roles (

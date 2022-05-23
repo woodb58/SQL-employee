@@ -1,6 +1,6 @@
 USE employeeTracker;
 
-INSERT INTO departments (id, name)
+INSERT INTO departments (id, department_name)
 VALUES
 (1, 'Sales'),
 (2, 'Engineering'),
