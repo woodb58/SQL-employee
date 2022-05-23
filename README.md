@@ -13,9 +13,8 @@
 - When the user chooses to add an employee they are prompted to enter the employee’s first name, last name, role, and manager, and that employee is added to the database
 - When the user chooses to update an employee role they are prompted to select an employee to update and their new role and this information is updated in the database
 
-### Installation
-
-After cloning the repo you will need to change the name of the "your.env" file to .env and enter your username and password into the pre-populated fields.
+### .env
+You will need to install dotenv and then change the name of the "your.env" file to .env and enter your username and password into the pre-populated fields.
 
 ## Demo Link:
 
